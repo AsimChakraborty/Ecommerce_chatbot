@@ -1,0 +1,74 @@
+
+
+1. “Provide a summary of customer activity in New York.”
+2. Analyze customer behavior across different cities.
+3. What are the characteristics of High-Value customers?
+4. “How do Mid-Value customers differ from Low-Value customers in spending?”
+5. Analyze the satisfaction levels of High-Value customers.
+6. Which cities have the most Low-Value customers?
+7.  What is the average rating for Mid-Value customers?
+8. How many customers are in each segment?
+9.  What can be done to improve satisfaction ?
+10. how many female person in this dataset[2025-04-29 11:42:29] What is the average spend in New York?
+
+
+[2025-04-29 11:43:06] How many High-Value customers are there?
+[2025-04-29 11:43:27] What are the top cities for Low-Value customers?
+[2025-04-29 11:43:44] What are the low cities for Low-Value customers?
+[2025-04-29 11:44:36] What are the details of Customer 101?
+[2025-04-29 11:47:04] What are the details of Customer 101?
+[2025-04-29 11:48:57] Recommend for  customer for customer Id 104
+[2025-04-29 11:49:09] Recommend for  customer for customer Id 104
+[2025-04-29 11:52:03] Recommend for  customer 
+[2025-04-29 11:58:32] recommendation for customer for customer id is 110
+[2025-04-29 12:00:51] recommend for customer id is 109
+[2025-04-29 12:01:06] recommend for customer 
+[2025-04-29 12:02:45] recommend for customer
+[2025-04-29 12:03:25] tell me about total spend  which segment are high value
+[2025-04-29 12:04:31] show the     all segment counts
+[2025-04-29 12:05:31] show the   all segment counts
+[2025-04-29 12:06:33] show all compare mid low spending
+[2025-04-29 12:22:58] show all mid value avg rating
+[2025-04-29 12:24:15] show all the average age
+[2025-04-29 12:25:15] show  total items purchased
+[2025-04-29 12:27:02] show  customer id 102  days since last purchase
+[2025-04-29 12:27:21] show Days Since Last Purchase
+[2025-04-29 12:32:33] show membership_analysis
+[2025-04-29 12:33:26] show membership type
+[2025-04-29 12:35:02] show unique value in membership
+[2025-04-29 12:35:17] show unique value 
+[2025-04-29 12:36:41] show unique value 
+[2025-04-29 12:38:03] show unique value 
+[2025-04-29 12:44:17] show unique  value
+[2025-04-29 12:45:20] show unique value
+[2025-04-29 12:45:57] show unique value Gender
+[2025-04-29 12:49:01] show unique value Gender
+[2025-04-29 12:49:34] recommend for customer
+[2025-04-29 12:53:47] recommend for customer
+[2025-04-29 12:55:11] recommend for customer
+[2025-04-29 13:06:12] recommend for customer
+[2025-04-29 13:10:21] recommend for customer
+[2025-04-29 13:12:13] recommend for customer
+[2025-04-29 13:13:36] show the discount analysis
+[2025-04-29 13:17:19] show the  plot total spend by segment
+[2025-04-29 13:18:14] show the  plot total spend by segment
+[2025-04-29 13:18:42] show the  plot total spend by segment
+[2025-04-29 13:20:27] How many customers are in each segment?
+[2025-04-29 13:52:03] Provide a summary of customer activity in New York
+[2025-04-29 13:52:36] Provide a summary of customer activity in  Miami
+[2025-04-29 13:53:18] Provide a summary of customer activity in  New york
+[2025-04-29 13:54:25] Provide a summary of customer activity in Houston
+[2025-04-29 13:55:12] Provide a summary of customer activity in Los Angeles
+[2025-04-29 13:56:30] Provide a summary of customer activity inSan Francisco
+[2025-04-29 13:56:52] Provide a summary of customer activity in Houston
+[2025-04-29 13:57:08] Provide a summary of customer activity in Los Angeles
+[2025-04-29 14:05:32] Provide a summary of customer activity  which membership is gold
+[2025-04-29 14:08:06] Provide a summary of customer activity  which membership is gold
+[2025-04-29 14:08:29] Provide a summary of customer activity  about  membership 
+[2025-04-29 14:11:12] show the  summary of customer activity  based on membership
+[2025-04-29 14:12:09] Provide a summary of customer activity in New York
+[2025-04-29 14:31:57] Are discounts effective in improving satisfaction or spend?
+[2025-04-29 14:34:09] Which cities have the most Low-Value customers?
+[2025-04-29 14:35:37] Analyze customer behavior across different cities.
+[2025-04-29 14:36:50] Analyze customer behavior across different cities.
+[2025-04-30 10:46:23] show the analyze high value satisfaction
